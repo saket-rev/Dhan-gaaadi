@@ -1,4 +1,4 @@
-# ✨ API, CRM, Client of **_dhan-gaadi_**, an online bus booking system
+# ✨ API, CRM, Client of **_dhan-gaaadi_**, an online bus booking system
 
 <p>
 <img src="https://img.shields.io/badge/CRM-ReactJS-blue?logo=react">
